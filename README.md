@@ -4,7 +4,7 @@
 I would like to thank the original developer for creating an excellent script for QBCore that allows players to utilize a persisent harness in their personal vehicles.
 
 ## SneakEOne
-I would like to thank my dear friend and fellow developer, SneakEOne, for his help, guidance, suggestions, and more with my updating of his script to support more than one resource, allowing for more widespread use across all of FiveM.
+I would like to thank fellow FiveM developer, SneakEOne, for his help, guidance, suggestions, and more with my updating of his script to support more than one resource, allowing for more widespread use across all of FiveM.
 
 ## QBCore
 I would like to thank the developers of QBCore for creating a solid RP framework for FiveM servers that allows for easy development of scripts to enhance gameplay.
@@ -178,7 +178,7 @@ end
 
 # Supported Frameworks
 1. QBCore
-2. Qbox
+2. Qbox (COMING SOON!)
 
 # Supported Inventories
 1. qb-inventory
